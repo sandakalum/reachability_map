@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/sanda/reachability_ws/devel/include/**",
+                "/home/sanda/my_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/sanda/reachability_ws/src/reuleaux/base_placement_plugin/include/**",
+                "/home/sanda/my_ws/src/beginner_tutorials/include/**",
+                "/home/sanda/reachability_ws/src/reuleaux/map_creator/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
